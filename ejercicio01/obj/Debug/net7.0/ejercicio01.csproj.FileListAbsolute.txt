@@ -26,3 +26,17 @@ C:\Users\ferch\OneDrive\Escritorio\Campus\CSharp\ejercicio01\obj\Debug\net7.0\re
 C:\Users\ferch\OneDrive\Escritorio\Campus\CSharp\ejercicio01\obj\Debug\net7.0\ejercicio01.pdb
 C:\Users\ferch\OneDrive\Escritorio\Campus\CSharp\ejercicio01\obj\Debug\net7.0\ejercicio01.genruntimeconfig.cache
 C:\Users\ferch\OneDrive\Escritorio\Campus\CSharp\ejercicio01\obj\Debug\net7.0\ref\ejercicio01.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\bin\Debug\net7.0\ejercicio01.exe
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\bin\Debug\net7.0\ejercicio01.deps.json
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\bin\Debug\net7.0\ejercicio01.runtimeconfig.json
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\bin\Debug\net7.0\ejercicio01.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\bin\Debug\net7.0\ejercicio01.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.AssemblyInfoInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.AssemblyInfo.cs
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\refint\ejercicio01.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ejercicio01.genruntimeconfig.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\CSharp_Registro_de_Notas\ejercicio01\obj\Debug\net7.0\ref\ejercicio01.dll
